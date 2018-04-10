@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jay Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ￨ﾴﾢ￨ﾴﾢ
+Implementation-Vendor-Id: com.cai
+Build-Jdk: 1.8.0_112
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.unistacks.epp.manager.Application
+
